@@ -1,2 +1,2 @@
 # eBay_Bokeh
-an interactive data visualisation interface on the eBay scrapped data
+An interactive data visualisation interface running on the eBay scrapped data
